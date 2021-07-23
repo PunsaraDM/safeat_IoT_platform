@@ -1,0 +1,1 @@
+# safeat_IoT_platform
